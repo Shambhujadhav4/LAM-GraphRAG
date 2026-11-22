@@ -1,0 +1,21 @@
+# Ignore internal archive of past revision versions
+_archive/
+
+# LaTeX auxiliary build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
