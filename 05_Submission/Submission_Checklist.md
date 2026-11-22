@@ -1,7 +1,7 @@
 # IEEE Conference Submission Kit: Turnkey Execution (Submission-Grade Package)
 ## Systematic Review: "Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution"
 
-**Authors:** Amol Kanherkar (Lead Author), Vaishnavi Ghode, Shambhuraje Jadhav, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
+**Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
 **Department & Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Maharashtra, India  
 **Date:** November 20, 2026  
 **Status:** Submission-Grade Complete Package (Phases 1–6 Completed & Verified with 100% Numeric Concordance)
@@ -69,13 +69,13 @@ Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of
 ```
 
 ### Authors & Affiliations
-1. **Amol Kanherkar** (`amolkanherkar@vpkbiet.org`) - Lead Author  
+1. **Shambhuraje Jadhav** (`shambhuraje.jadhav.aids.2023@vpkbiet.org`) - Lead Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-2. **Vaishnavi Ghode** (`vaishnavighode@vpkbiet.org`) - Co-Author  
+2. **Amol Kanherkar** (`amol.kanherkar.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-3. **Shambhuraje Jadhav** (`shambhurajejadhav@vpkbiet.org`) - Co-Author  
+3. **Vaishnavi Ghode** (`vaishnavi.ghode.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-4. **Aarti Kalyane** (`aartikalyane@vpkbiet.org`) - Co-Author  
+4. **Aarti Kalyane** (`aarti.kalyane.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
 5. **Hema Jadhav** (`hema.jadhav@vpkbiet.org`) - Corresponding Author & Project Guide  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*

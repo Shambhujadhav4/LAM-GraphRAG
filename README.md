@@ -1,10 +1,10 @@
 # LAM-GraphRAG IEEE Review: Modular Research & Manuscript System
 
 **Title:** Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution  
-**Lead Author:** Shambhuraje Jadhav (`amol.kanherkar.aids.2023@vpkbiet.org`)  
+**Lead Author:** Shambhuraje Jadhav (`shambhuraje.jadhav.aids.2023@vpkbiet.org`)  
 **Co-Authors:**  
+- Amol Kanherkar (`amol.kanherkar.aids.2023@vpkbiet.org`)  
 - Vaishnavi Ghode (`vaishnavi.ghode.aids.2023@vpkbiet.org`)  
-- Shambhuraje Jadhav (`shambhuraje.jadhav.aids.2023@vpkbiet.org`)  
 - Aarti Kalyane (`aarti.kalyane.aids.2023@vpkbiet.org`)  
 - Prof. Hema Jadhav (Project Guide & Corresponding Author, `hema.jadhav@vpkbiet.org`)  
 **Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, SPPU, Pune, India  
