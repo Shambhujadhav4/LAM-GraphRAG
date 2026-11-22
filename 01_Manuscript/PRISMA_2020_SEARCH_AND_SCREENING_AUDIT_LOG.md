@@ -3,7 +3,7 @@
 **Protocol Title:** Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution  
 **Standard Adhered To:** Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020 Statement; Page et al., *BMJ* 2021 [39], DOI: `10.1136/bmj.n71`)  
 **Target Submission Venues:** IEEE IC3ECSBHI 2027 (Primary, Dec 31, 2026; 6+2 pages) / IEEE CONECCT 2027 (Backup, Dec 15, 2026)  
-**Authors:** Amol Kanherkar (Lead Author), Vaishnavi Ghode, Shambhuraje Jadhav, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
+**Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
 **Department & Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Pune, India  
 **Audit Verification Date:** November 20, 2026  
 **Status:** Version 15 Submission-Grade Final Review Package (Verified 540 Harvested Records, 532 Deduplicated Candidates, 86 Full-Text Candidates, 50 Included Studies; Title/Abstract $\kappa = 0.81$, Full-Text $\kappa = 0.90$)
@@ -151,7 +151,7 @@ To ensure complete reproducibility and avoid category errors associated with app
 
 ## 7. Table I Survey Coverage Double-Coding Contingency Matrix & Cohen's Kappa Proof
 
-**Exercise:** Double-coding of 5 related surveys across 5 evidence lifecycle stages ( = 25$ cells) by Reviewer A (A.K.) and Reviewer B (V.G.) with Reviewer 3 (S.J.) adjudicating splits.  
+**Exercise:** Double-coding of 5 related surveys across 5 evidence lifecycle stages ( = 25$ cells) by Reviewer A (S.J.) and Reviewer B (V.G.) with Reviewer 3 (A.K.) adjudicating splits.  
 **Raw Agreement:**  = 22 / 25 = 88.00\%$  
 **Expected Agreement:**  = 0.398400$  
 **Cohen's Kappa:** $\kappa = \frac{0.880000 - 0.398400}{1.000000 - 0.398400} = \frac{0.481600}{0.601600} \approx 0.800532 \longrightarrow \mathbf{0.8005}$

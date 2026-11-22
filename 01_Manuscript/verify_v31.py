@@ -102,7 +102,7 @@ run_check('Check 15: Eq (8) Normalization of Inputs to [0,1]',
 # Check 16: Reviewer Roles Clarification
 run_check('Check 16: Reviewer Roles Clarification (R1 & R2 screening; R1 & R3 full-text)',
           'Reviewer 1 and Reviewer 2 conducted the initial title/abstract screening' in tex and
-          'Reviewer 1 (A.K.) and Reviewer 3 (S.J., domain specialist in graph topologies and spatial document AI)' in tex)
+          'Reviewer 1 (S.J.) and Reviewer 3 (A.K., domain specialist in graph topologies and spatial document AI)' in tex)
 
 # Check 17: Matrix Propagation Uncertainty Assumption Documented
 run_check('Check 17: Matrix Propagation Uncertainty Assumption Documented',
