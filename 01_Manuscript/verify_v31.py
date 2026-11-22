@@ -208,7 +208,7 @@ run_check('Check 31: Search Protocol Reproducibility (2017-2026, English, Peer-r
           'January 2017 to November 2026' in tex and
           'English-language peer-reviewed conference proceedings and journal articles' in tex and
           'open supplementary search audit log repository' in tex and
-          'github.com/Shambhujadhav4/LAM-GraphRAG' in tex)
+          ('10.5281/zenodo.24434432' in tex or 'github.com/Shambhujadhav4/LAM-GraphRAG' in tex))
 
 # Check 32: PRISMA 2020 Statement Disentangled from Audit Log
 prisma_clean = (

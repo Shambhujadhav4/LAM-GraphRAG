@@ -1,5 +1,8 @@
 # LAM-GraphRAG IEEE Review: Modular Research & Manuscript System
 
+[![DOI](https://zenodo.org/badge/1467228249.svg)](https://doi.org/10.5281/zenodo.24434431)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Shambhujadhav4/LAM-GraphRAG)
+
 **Title:** Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution  
 **Lead Author:** Shambhuraje Jadhav (`shambhuraje.jadhav.aids.2023@vpkbiet.org`)  
 **Co-Authors:**  
@@ -8,6 +11,7 @@
 - Aarti Kalyane (`aarti.kalyane.aids.2023@vpkbiet.org`)  
 - Prof. Hema Jadhav (Project Guide & Corresponding Author, `hema.jadhav@vpkbiet.org`)  
 **Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, SPPU, Pune, India  
+**Archived Zenodo DOI:** [`10.5281/zenodo.24434432`](https://doi.org/10.5281/zenodo.24434432) (Release Snapshot: [`10.5281/zenodo.24434431`](https://doi.org/10.5281/zenodo.24434431))  
 **Official Public Repository:** `https://github.com/Shambhujadhav4/LAM-GraphRAG`  
 **Target Venue:** IEEE IC3ECSBHI 2027 (Dec 31, 2026; 6+2 pages) / IEEE CONECCT 2027  
 **Status:** **Submission-Ready (Version 31 Verified Master)**

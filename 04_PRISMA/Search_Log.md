@@ -1,12 +1,16 @@
 # PRISMA 2020 Systematic Search, Screening, and Appraisal Audit Log (Version 19 Final)
 
+[![DOI](https://zenodo.org/badge/1467228249.svg)](https://doi.org/10.5281/zenodo.24434431)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Shambhujadhav4/LAM-GraphRAG)
+
 **Protocol Title:** Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution  
 **Standard Adhered To:** Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020 Statement; Page et al., *BMJ* 2021 [39], DOI: `10.1136/bmj.n71`)  
+**Archived Zenodo DOI:** [`10.5281/zenodo.24434432`](https://doi.org/10.5281/zenodo.24434432) (Release: [`10.5281/zenodo.24434431`](https://doi.org/10.5281/zenodo.24434431))  
 **Target Submission Venues:** IEEE IC3ECSBHI 2027 (Primary, Dec 31, 2026; 6+2 pages) / IEEE CONECCT 2027 (Backup, Dec 15, 2026)  
-**Authors:** Amol Kanherkar (Lead Author), Vaishnavi Ghode, Shambhuraje Jadhav, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
+**Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
 **Department & Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Pune, India  
 **Audit Verification Date:** November 20, 2026  
-**Status:** Version 22 Submission-Grade Final Review Package (Verified 540 Harvested Records, 532 Deduplicated Candidates, 86 Full-Text Candidates, 50 Included Studies; Title/Abstract $\kappa = 0.81$, Full-Text $\kappa = 0.90$)
+**Status:** Submission-Grade Final Review Package (Verified 540 Harvested Records, 532 Deduplicated Candidates, 86 Full-Text Candidates, 50 Included Studies; Title/Abstract $\kappa = 0.81$, Full-Text $\kappa = 0.90$)
 
 ---
 

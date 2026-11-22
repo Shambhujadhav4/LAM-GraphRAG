@@ -1,8 +1,13 @@
 # IEEE Conference Submission Kit: Turnkey Execution (Submission-Grade Package)
 ## Systematic Review: "Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution"
 
+[![DOI](https://zenodo.org/badge/1467228249.svg)](https://doi.org/10.5281/zenodo.24434431)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Shambhujadhav4/LAM-GraphRAG)
+
 **Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
 **Department & Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Maharashtra, India  
+**Archived Zenodo DOI:** [`10.5281/zenodo.24434432`](https://doi.org/10.5281/zenodo.24434432) (Release: [`10.5281/zenodo.24434431`](https://doi.org/10.5281/zenodo.24434431))  
+**Official Repository:** `https://github.com/Shambhujadhav4/LAM-GraphRAG`  
 **Date:** November 20, 2026  
 **Status:** Submission-Grade Complete Package (Phases 1–6 Completed & Verified with 100% Numeric Concordance)
 
