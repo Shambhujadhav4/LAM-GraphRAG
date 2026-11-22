@@ -1,10 +1,15 @@
-# IEEE Conference Submission Kit: Turnkey Execution (Version 22 Submission-Grade Package)
+# IEEE Conference Submission Kit: Turnkey Execution (Submission-Grade Package)
 ## Systematic Review: "Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution"
 
-**Authors:** Amol Kanherkar (Lead Author), Vaishnavi Ghode, Shambhuraje Jadhav, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
+[![DOI](https://zenodo.org/badge/1467228249.svg)](https://doi.org/10.5281/zenodo.24434431)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Shambhujadhav4/LAM-GraphRAG)
+
+**Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Hema Jadhav (Project Guide & Corresponding Author)  
 **Department & Institution:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Maharashtra, India  
-**Date:** November 21, 2026  
-**Status:** Submission-Grade Complete Package (Version 20 Fully Verified with 100% Numeric, Bibliographic & Methodological Concordance)  
+**Archived Zenodo DOI:** [`10.5281/zenodo.24434432`](https://doi.org/10.5281/zenodo.24434432) (Release: [`10.5281/zenodo.24434431`](https://doi.org/10.5281/zenodo.24434431))  
+**Official Repository:** `https://github.com/Shambhujadhav4/LAM-GraphRAG`  
+**Date:** November 22, 2026  
+**Status:** Submission-Grade Complete Package (Version 31 Fully Verified with 100% Numeric, Bibliographic & Methodological Concordance)  
 **Target Venues:**
 - **Primary:** IEEE IC3ECSBHI 2027 (Deadline: Dec 31, 2026; A4 Paper Format, $\le$ 8 Pages Maximum Ceiling)  
 - **Flagship Alternative (Recommended):** IEEE CONECCT 2027 (Deadline: Dec 15, 2026; Bangalore, India; Up to 8 IEEE Double-Column Pages; Standard IEEE AI Policy)  
@@ -76,13 +81,13 @@ Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of
 ```
 
 ### Authors & Affiliations
-1. **Amol Kanherkar** (`amolkanherkar@vpkbiet.org`) - Lead Author  
+1. **Shambhuraje Jadhav** (`shambhuraje.jadhav.aids.2023@vpkbiet.org`) - Lead Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-2. **Vaishnavi Ghode** (`vaishnavighode@vpkbiet.org`) - Co-Author  
+2. **Amol Kanherkar** (`amol.kanherkar.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-3. **Shambhuraje Jadhav** (`shambhurajejadhav@vpkbiet.org`) - Co-Author  
+3. **Vaishnavi Ghode** (`vaishnavi.ghode.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
-4. **Aarti Kalyane** (`aartikalyane@vpkbiet.org`) - Co-Author  
+4. **Aarti Kalyane** (`aarti.kalyane.aids.2023@vpkbiet.org`) - Co-Author  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
 5. **Hema Jadhav** (`hema.jadhav@vpkbiet.org`) - Corresponding Author & Project Guide  
    *Department of Artificial Intelligence & Data Science, VPKBIET Baramati, Pune, Maharashtra, India*
@@ -130,8 +135,8 @@ Could you please confirm that this standard IEEE Author Center disclosure satisf
 Thank you for your time and guidance.
 
 Sincerely,
-Amol Kanherkar (Lead Author)
-Mrs. Hema Jadhav (Project Guide & Corresponding Author)
+Shambhuraje Jadhav (Lead Author)
+Prof. Hema Jadhav (Project Guide & Corresponding Author)
 Department of Artificial Intelligence & Data Science,
 VPKBIET Baramati, Savitribai Phule Pune University, India
 ```

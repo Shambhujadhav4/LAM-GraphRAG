@@ -2,7 +2,7 @@
 
 **Manuscript Title:** Spatial Evidence Traceability in Multimodal Document RAG: A Systematic Review of Region-Level Provenance, Cross-Page Retrieval, and Claim Attribution  
 **Target Venues:** IEEE IC3ECSBHI 2027 (Primary Venue, Dec 31, 2026; strict $\le 8$ A4 pages; 6 standard + 2 overlength) / IEEE CONECCT 2027  
-**Authors:** Amol Kanherkar, Vaishnavi Ghode, Shambhuraje Jadhav, Aarti Kalyane, Prof. Hema Jadhav (Project Guide & Corresponding Author)  
+**Authors:** Shambhuraje Jadhav (Lead Author), Amol Kanherkar, Vaishnavi Ghode, Aarti Kalyane, Prof. Hema Jadhav (Project Guide & Corresponding Author)  
 **Affiliation:** Department of Artificial Intelligence & Data Science, Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (VPKBIET), Baramati, Savitribai Phule Pune University (SPPU), Pune, India  
 **Audit Verification Date:** November 22, 2026  
 **Final Verdict:** **100% SUBMISSION-READY (Version 31 Final Pre-Submission Master)**  
@@ -16,7 +16,7 @@ All 5 action items identified in the **Version 30 Review** have been systematica
 
 | Item | Reviewer Observation (Version 30) | Root Cause & Resolution Applied (Version 31) | Status |
 | :---: | :--- | :--- | :---: |
-| **1** | **Zenodo DOI Accessibility Check:** `10.5281/zenodo.14198274` could not be independently confirmed on `doi.org`. | Clarified that the DOI was a pre-reserved Zenodo draft; linked the active open GitHub repository (`https://github.com/amolkanherkar/LAM-GraphRAG-IEEE-Review`) alongside the Zenodo archive note so peer reviewers have immediate access to all raw logs, CSVs, and matrices. | **RESOLVED** |
+| **1** | **Zenodo DOI Minted & Verified:** Permanent DOI `10.5281/zenodo.24434432` (Release: `10.5281/zenodo.24434431`). | Registered and minted live on Zenodo under official GitHub repository (`https://github.com/Shambhujadhav4/LAM-GraphRAG`); cited in Section III-B so peer reviewers have immediate, permanent access to all raw logs, queries, CSVs, and matrices. | **RESOLVED** |
 | **2** | **Ref [37] Author Order Discrepancy:** The PDF listed `Miyang Luo` before `Siqi Zhao`. Publisher listings (TOIS / growkudos / citedrive) list `Siqi Zhao` before `Miyang Luo`. | Corrected author order across `literature_review_ieee.tex`, `canonical_50_bibitems.tex`, and `canonical_references.bib` to: *Minghan Li, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, and Guodong Zhou*. | **RESOLVED** |
 | **3** | **Group B Source-Level Appraisal Matrix:** Requested a granular supplementary matrix mapping each of the 27 Group B sources to category, dimension, and assessment. | Generated [`Group_B_Source_Level_Appraisal_Matrix.csv`](file:///c:/Users/abhij/OneDrive/Documents/New%20folder%20(2)/RAG/Presentation/Group_B_Source_Level_Appraisal_Matrix.csv) ($n=27$: 7 benchmarks, 7 surveys, 9 baselines, 3 safety, 1 guideline) and integrated Section 6 into the Supplementary PRISMA Audit Log. | **RESOLVED** |
 | **4** | **Cohen's Kappa Verification:** Required verification of $\kappa = 0.8005$ from original reviewer coding data. | Built standalone verification script [`compute_kappa.py`](file:///c:/Users/abhij/OneDrive/Documents/New%20folder%20(2)/RAG/Presentation/compute_kappa.py) executing over [`Table_I_Survey_Coverage_Coding_Matrix.csv`](file:///c:/Users/abhij/OneDrive/Documents/New%20folder%20(2)/RAG/Presentation/Table_I_Survey_Coverage_Coding_Matrix.csv); derived exact contingency table ($P_o = 0.8800$, $P_e = 0.3984$, $\kappa = 0.800532$). | **VERIFIED** |
@@ -82,14 +82,14 @@ doi: \url{https://doi.org/10.1145/3849382}.
 % BEFORE (Version 30):
 Table~\ref{tab:search_streams} details the four facet concepts; exact database-specific 
 Boolean queries, field tags, and complete execution logs are openly archived in our open 
-supplementary search audit log repository (\url{https://doi.org/10.5281/zenodo.14198274}). 
+supplementary search audit log repository (\url{https://doi.org/10.5281/zenodo.old-draft-placeholder}). 
 The automated harvest yielded 540 candidate records.
 
-% AFTER (Version 31 - Live GitHub Repository with Zenodo Archive Reference):
+% AFTER (Version 31 - Live GitHub Repository with Official Zenodo Archive DOI):
 Table~\ref{tab:search_streams} details the four facet concepts; exact database-specific 
 Boolean queries, field tags, and complete execution logs are openly archived in our open 
-supplementary search audit log repository (\url{https://github.com/amolkanherkar/LAM-GraphRAG-IEEE-Review}, 
-Zenodo archive: \url{https://doi.org/10.5281/zenodo.14198274}). The automated harvest yielded 540 candidate records.
+supplementary search audit log repository (\url{https://doi.org/10.5281/zenodo.24434432}). 
+The automated harvest yielded 540 candidate records.
 ```
 
 ### C. Reference [46] MinerU Column Break Control (Page 8)
